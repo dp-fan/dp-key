@@ -1,0 +1,21 @@
+{
+  "name": "dp-key",
+  "version": "0.0.2",
+  "description": "dp-key CLI tool",
+  "bin": {
+    "dp-key": "./bin/dp-key.js"
+  },
+  "files": [
+    "bin/",
+    "binaries/"
+  ],
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ]
+}
