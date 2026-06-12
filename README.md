@@ -1,6 +1,8 @@
 # dp-key
 
-Claude CLI 快速启动器 - 管理多个 API key 配置，一键启动 Claude
+Claude CLI 快速启动器 - 管理多个 deploy-api.com API key 配置，一键启动 Claude
+
+注意，本工具为 用户开发，非虫姐官方开发。
 
 ## 功能特性
 
